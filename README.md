@@ -1,4 +1,4 @@
-# ActDistill: Action-Guided Knowledge Distillation for VLA Models
+# ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models
 
 
 ## Overview
