@@ -198,6 +198,7 @@ This README is intended as a high-level map of the system rather than a fully sc
 Ye, W., Wang, T., Zhu, L., Li, F., & Yang, G. (2025). *ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models*. Retrieved from [https://arxiv.org/abs/2511.18082](https://arxiv.org/abs/2511.18082)
 
 ### BibTeX:
+```
 @misc{ye2025actdistillgeneralactionguidedselfderived,
       title={ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models}, 
       author={Wencheng Ye and Tianshi Wang and Lei Zhu and Fengling Li and Guoli Yang},
@@ -207,3 +208,4 @@ Ye, W., Wang, T., Zhu, L., Li, F., & Yang, G. (2025). *ActDistill: General Actio
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2511.18082}, 
 }
+```
