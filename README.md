@@ -4,6 +4,7 @@
 ## Overview
 
 Code Implementation of [ActDistill](https://arxiv.org/abs/2511.18082)
+
 **ActDistill** (Action-Guided Knowledge Distillation) is a framework for distilling large Vision-Language-Action (VLA) policies into lighter student policies while preserving both semantic understanding and precise robot actions.
 
 The codebase builds on top of Prismatic / OpenVLA-style VLAs and CogACT diffusion policies, adding explicit action-guided routing and graph-structured semantic supervision.
